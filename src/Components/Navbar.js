@@ -11,7 +11,7 @@ const Navbar = ()=>{
         return (
             <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark px-3 py-2">
                  <div class="container-fluid">
-                <Link className="navbar-brand" to="/">NewsApp</Link>
+                <Link className="navbar-brand" to="/">ReadNewsDaily</Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
